@@ -1,3 +1,5 @@
+# Source: https://github.com/marsauto/europilot/blob/master/europilot/joystick.py
+# This code is NOT MINE.
 import os
 import sys
 import time
