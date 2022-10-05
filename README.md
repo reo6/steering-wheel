@@ -59,7 +59,7 @@ It was a python library, at first, I thought I needed to use C for such low leve
 It took me some time to figure out ``evdev``.
 
 I wanted to use my regular mouse to browse menus and such things, so I disabled the microsoft mouse with ``xinput``,
-I had to do it everytime I plug it in. I was still able to read raw data.
+I had to do it everytime I plugged it in. I was still able to read raw data.
 
 And now;
 
