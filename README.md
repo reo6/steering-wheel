@@ -68,7 +68,7 @@ And now;
 This was truly harder than ``evdev`` thing. I had to create a virtual steering wheel, I couldn't found a high level python library that
 works on Linux. I checked out every single steering wheel project on internet, then got [europilot](https://github.com/marsauto/europilot)!
 It's a self driving bot for ets2, and I found ``joystick.py`` that does my thing. I included it in my project, read the code and used it
-at ``driver.py``. Unfortunately the code become even dirtier.
+at ``driver.py``. Unfortunately the code became even dirtier.
 
 ## Happy Ending!
 
