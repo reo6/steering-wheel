@@ -52,7 +52,7 @@ It took a few hours to combine it with the wooden wheel.
 
 There was another problem now, *the software part*.
 
-## New version of ``driver.py``
+## New Python Script, ``mouse2steer.py``
 
 ### Getting raw mouse data.
 
