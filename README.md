@@ -54,11 +54,11 @@ There was another problem now, *the software part*.
 ### Getting raw mouse data.
 
 No pyautogui or no cursor monitoring. I had to read raw data of a specific mouse. After a few hours of research, I found ``evdev``!
-It was a python library, first I though I needed to use C for such low level stuff, but I was lucky.
+It was a python library, at first, I thought I needed to use C for such low level stuff, but I was lucky.
 
 It took me some time to figure out ``evdev``.
 
-I wanted to use my regular mouse to browse menu and such thing, so I disabled the microsoft mouse with ``xinput``,
+I wanted to use my regular mouse to browse menus and such things, so I disabled the microsoft mouse with ``xinput``,
 I had to do it everytime I plug it in. I was still able to read raw data.
 
 And now;
