@@ -12,7 +12,9 @@ Then we switched to a potentiometer since already we had one at home.
 
 ## Potentiometer with cardboard wheel and first lost version of ``driver.py``
 
-*[Image of first steering wheel.]*
+<img src="https://i.imgur.com/UCLFHDY.jpeg" width=400 height=auto></img>
+<img src="https://i.imgur.com/fuVOHhL.jpeg" width=400 height=auto></img>
+
 
 This version was nice! We also built gas and brake pedals with just buttons. Me and dad played with this thing a lot,
 it was funny, we had great times.
@@ -42,7 +44,8 @@ forgetten microsoft mouse at home. It was so hard to open it, there were no scre
 
 It took a few hours to combine it with wooden wheel.
 
-*[Image of wooden wheel combined with microshit mouse]*
+<img src="https://i.imgur.com/rjDB97C.jpg" width=400 height=auto></img>
+<img src="https://i.imgur.com/4p9mgXM.jpg" width=400 height=auto></img>
 
 There was another problem now, *the software part*.
 
