@@ -34,7 +34,8 @@ Alright, we need a new, heavy steering wheel and a mechanism to use it
 with a **rotary encoder**. The thing called the rotary encoder was able to rotate endlessly.
 
 
-*[Image of a rotary encoder]*
+<img src="https://controllerstech.com/wp-content/uploads/2021/06/rotary-encoder-350x350.jpeg" width=200 height=auto></img>
+
 
 We failed. It took weeks to make a wooden steering wheel with its stand and the damn mechanism, but the rotary encoder, after a few turns, broke.
 
