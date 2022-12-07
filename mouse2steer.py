@@ -2,7 +2,7 @@ import evdev
 import joystick
 
 STEERING_MIN, STEERING_MAX = (-32767, 32767)
-PHYSICAL_STEER_MIN, PHYSICAL_STEER_MAX = (-8191, 8191)
+PHYSICAL_STEER_MIN, PHYSICAL_STEER_MAX = (-4095, 4095)
 
 v = joystick.VirtualJoystick("Mouse to Steering Wheel Controller")
 
